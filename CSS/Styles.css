@@ -1,0 +1,17 @@
+  body{
+    background-color:pink;
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-top-color: grey;
+    border-top-width: 10px;
+    width: 10%;
+
+  }
+  h1{
+    color:#A10035;
+  }
+  h3{
+    color:#A10035;
+  }
